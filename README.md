@@ -1,4 +1,3 @@
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/Mahdi/Documents/Python/Hejazi/ProjectBasePython/Level1/StreamLitDashboard/PasswordGeneratorDash/solution/src/image/image.png?version%3D1754126861995)
 
 # 🔐 Password Generator – Streamlit App
 
